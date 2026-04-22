@@ -5,6 +5,12 @@
 Welcome to the core repository for JARVIS. I built this project to act as the central brain for my day-to-day life. Instead of relying on fragmented, cloud-based productivity apps that lock away my data, I wanted a unified system that handles everything: tracking goals, maintaining habit accountability, scraping university assignments, and providing a real-time voice interface.
 
 The ultimate guarantee? **Zero bytes of my personal data ever leave my local machine.**
+<p align="center">
+  <img src="assets/WebsiteDashboard_demo.png" alt="JARVIS Dashboard Demo" width="800">
+</p>
+<p align="center">
+  <img src="assets/CLI_demo.png" alt="JARVIS CLI Demo" width="800">
+</p>
 
 ---
 
